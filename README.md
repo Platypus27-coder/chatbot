@@ -1,1 +1,1 @@
-A basic chatbot using API hugchat :))
+A basic chatbot using API hugchat and Vicuna 
